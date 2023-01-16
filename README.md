@@ -1,4 +1,4 @@
 # Dice-Roll
--Its a dice app
+-Its a double dice app
 -Download the file and run it 
 Thanku
